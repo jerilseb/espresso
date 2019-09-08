@@ -1,4 +1,4 @@
-const Espresso = require("./espresso");
+const Espresso = require("../espresso");
 const cors = require('./cors');
 
 const app = new Espresso();
